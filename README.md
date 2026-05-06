@@ -124,7 +124,7 @@ nexus-storage-engine/
 ### Install dependencies
 
 ```bash
-cd nexus-storage-engine
+cd Distributed-storage-engine
 pip install -r requirements.txt
 ```
 
@@ -137,7 +137,7 @@ streamlit run interface/app.py --server.port 5000
 ### Run the CLI demo
 
 ```bash
-cd nexus-storage-engine
+cd Distributed-storage-engine
 python main.py
 ```
 
